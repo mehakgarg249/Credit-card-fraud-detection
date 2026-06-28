@@ -1,4 +1,4 @@
-💳 Credit Card Fraud Detection
+💳 #Credit Card Fraud Detection
 
 A machine learning project that detects fraudulent credit card transactions using transaction feature analysis and a trained classification model.
 The app provides a Streamlit-based web interface where users can input transaction data and instantly get fraud predictions.
